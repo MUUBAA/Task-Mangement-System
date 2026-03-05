@@ -292,4 +292,4 @@ Fix:
 ## Notes
 
 * This project focuses on clean service/repository separation, DTO usage, and role-based authorization.
-* Testing is not included in this submission (per current implementation).
+
