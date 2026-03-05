@@ -1,0 +1,11 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# SQLite DB (optional to commit; usually ignore)
+*.db
+
+# Secrets (don’t commit real secrets)
+appsettings.Development.json
